@@ -1,8 +1,4 @@
- <center>
-     <h1>XXX</h1>
- </center>
-
-## 个人信息 
+## 联系方式
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：22  
 * 手 机：15307406801 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：wanwsy125085@gmail.com    
